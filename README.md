@@ -66,16 +66,17 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Insrtuction to RUN the Application
 
-1) Clone the project
-2) Run composer update
-3) If don't have the composer then install it
-4) check for .env file change db credentials according to yours
-5) Create a db
-6) php artisan migrate
-7) php artisan key:generate (if not there)
+1) Clone the project.
+2) Run composer update.
+3) If don't have the composer then install it.
+4) check for .env file change db credentials according to yours.
+5) Create a db.
+6) php artisan migrate.
+7) php artisan key:generate (if not there).
 8) finally php artisan serve command to run the application.
-9) Register user
-10) Create a project or task in input box given
+9) Register user.
+10) Create a project or task in input box given.
+11) Make sure you clone it from develop branch please.
 
 http://127.0.0.1:8000/todo/create Use this following page link to see the task if not found
 
